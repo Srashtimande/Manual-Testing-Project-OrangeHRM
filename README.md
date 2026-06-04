@@ -1,4 +1,4 @@
-OrangeHRM Manual Testing Project
+<h2>OrangeHRM Manual Testing Project</h2>
 
 Project Overview
 
