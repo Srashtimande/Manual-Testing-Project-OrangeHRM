@@ -4,7 +4,7 @@ Project Overview
 
 Performed manual testing on the OrangeHRM web application and designed test cases for key modules.
 
-Modules Tested
+<h4>Modules Tested</h4>
 
 - Login
 - Forgot Password
@@ -12,13 +12,13 @@ Modules Tested
 - Admin Search
 - Logout
 
-Test Case Summary
+<h4>Test Case Summary</h4>
 
 - Total Test Cases Executed: 32
 - Functional Bugs Identified: 1
 - Observations Identified: 1
 
-Defect Identified
+<h4>Defect Identified</h4>
 
 BUG_FP_01
 
@@ -30,7 +30,7 @@ OBS_LOGOUT_01
 
 Dashboard page became visible through browser Back button after logout, but protected navigation redirected the user to the login page.
 
-Testing Techniques Used
+<h4>Testing Techniques Used</h4>
 
 - Positive Testing
 - Negative Testing
@@ -38,12 +38,12 @@ Testing Techniques Used
 - Functional Testing
 - Usability Testing
 
-Tools Used
+<h4>Tools Used</h4>
 
 - Google Sheets / Microsoft Excel
 - Chrome Browser
 
-Project Deliverables
+<h4>Project Deliverables</h4>
 
 - Test Cases
 - Test Execution Results
